@@ -17,3 +17,5 @@ npm run dev
 ```
 
 ## Live
+
+https://k72-2ze9.vercel.app/
